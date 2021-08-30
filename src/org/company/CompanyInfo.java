@@ -10,6 +10,9 @@ public class CompanyInfo {
 	private void sample() {
 		System.out.println("Hi....");
 	}
+	private void sample1() {
+		System.out.println("Hi...");
+	}
 	public static void main(String[] args) {
 		CompanyInfo c = new CompanyInfo();
 		c.companyName("TCS", "CTS");
